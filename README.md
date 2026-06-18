@@ -1,6 +1,11 @@
 # 🤖 Miniguia de Estudos: Desmistificando Machine Learning com NotebookLM
 
 ---
+## 🎯 Contexto e Objetivos
+Este repositório foi desenvolvido para o Desafio de Projeto do bootcamp da DIO. O foco é aplicar os conceitos de **Aprendizagem Ativa** utilizando o **Google NotebookLM** como uma central de conhecimento inteligente sobre Machine Learning. 
+
+O principal objetivo de estudo é construir uma base sólida nos conceitos primordiais da ciência de dados, compreendendo desde a engenharia de dados inicial (features e labels) até o funcionamento de arquiteturas complexas como Redes Neurais, documentando os padrões de respostas e o comportamento da IA.
+
 
 ## 🌍 Sumários de Customização / Custom Summaries
 *(Você pode utilizar este texto para colar nas diretrizes/configurações de personalização do seu NotebookLM ou como cartão de visitas do seu repositório)*
@@ -20,13 +25,6 @@
 * How models behave under failure conditions (biases and Overfitting) and how to mitigate them.
 * Practical methodologies for model testing, validation, and data splitting (Train/Test).
 * The underlying logic of Neural Networks and their parallel to the human brain.
-
----
-
-## 🎯 Contexto e Objetivos
-Este repositório foi desenvolvido para o Desafio de Projeto do bootcamp da DIO. O foco é aplicar os conceitos de **Aprendizagem Ativa** utilizando o **Google NotebookLM** como uma central de conhecimento inteligente sobre Machine Learning. 
-
-O principal objetivo de estudo é construir uma base sólida nos conceitos primordiais da ciência de dados, compreendendo desde a engenharia de dados inicial (features e labels) até o funcionamento de arquiteturas complexas como Redes Neurais, documentando os padrões de respostas e o comportamento da IA.
 
 ---
 
